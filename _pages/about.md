@@ -30,7 +30,7 @@ latest_posts:
 
 Just some person who thinks a lot of things are super cool and light in particular is :sparkles: _especially cool_ :sparkles:. Somehow, I've gotten around to **working with light in cameras, biological tissues, and quantum computers**.
 
-I'm currently a **Photonics Engineer at [Xanadu](https://www.xanadu.ai)** modelling light-powered chips for quantum computers. It's still crazy to think that I'm a part of something so sci-fi sci-fi sounding!
+I'm currently a **Photonics Engineer** at [Xanadu](https://www.xanadu.ai) analysing light-powered chips for quantum computers. It's still crazy to think that I'm a part of something so sci-fi sounding!
 
 I did my **master's in optical biomedical imaging techniques** advised by [Dr. Ofer Levi](https://bme.utoronto.ca/faculty-research/core-faculty/ofer-levi/) with the [Biophotonics Lab](https://biophotonics.utoronto.ca),
 and my undergrad in [Engineering Science](https://engsci.utoronto.ca) (**NΨ 2T1+PEY**) at the University of Toronto.
